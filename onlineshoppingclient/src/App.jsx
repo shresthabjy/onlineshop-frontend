@@ -13,7 +13,7 @@ import Product from "./pages/product";
 import ProductCreate from "./pages/product/create";
 import ProductEdit from "./pages/product/edit";
 
-import Login from "./pages/user/Login";
+import Login from "./pages/user/login";
 import Register from "./pages/user/Register";
 
 import NotFound from "./pages/NotFound";
