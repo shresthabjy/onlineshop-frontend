@@ -16,6 +16,8 @@ import { Navigate } from "react-router-dom";
 function Login() {
   const checkLogin = localStorage.getItem("token");
 
+  (alert("test"))
+
   if (checkLogin) {
     return <Navigate to="/" />;
   }
